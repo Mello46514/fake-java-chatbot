@@ -14,6 +14,7 @@ public class main{
         System.out.println("anyways, goodbye!");
         Scanner myObj3 = new Scanner(System.in);
         response = myObj3.nextLine();
-        System.out.println("and so the fake (java based) chatbot went, to go ramble about how saying hello world in java is so bad, soon he would realise that it isnt too bad, as its just one step harder than C, and C++ is a nightmare. it found peace in itself.\nthanks for playing!");
+        System.out.println("and so the fake (java based) chatbot went, to go ramble about how saying hello world in java is soo bad, soon he would realise that it isnt too bad, as its just one step harder than C, and C++ is a nightmare. it found peace in itself.\nthanks for playing!");
+        System.out.println("\n i do genuinley dislike java tho, i dont have a reason to use it, so i wont. java does do cool things tho.")
     }
 }
